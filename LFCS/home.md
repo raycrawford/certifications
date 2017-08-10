@@ -1,5 +1,7 @@
 # Linux Foundation Certified System Adminstistrator (LFCS)
 
+Look at edX for class.
+
 ## Overview of Domains & Compentencies
 
 Below is a list of ALL domains on LFCS V2.16.  The focus subset are in ***bold italic***.  The full list came from [here](https://training.linuxfoundation.org/images/pdfs/LFCS_Domains_Competencies_V2.16.pdf) and the subset can be found [here](https://training.linuxfoundation.org/certification/lfcs).

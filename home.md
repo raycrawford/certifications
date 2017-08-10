@@ -20,3 +20,7 @@ Then, pick Chef back up and complete the certification "Certified Chef Developer
 3. (Probably) Deploying Cookbooks
 
 I have to use the MS vouchers by 11/16/17.  I would like to get that certification by the end of September 2017 and to complete my Chef certification by EOY 2017.
+
+Exams:
+* 532
+  * Schedule at 8:30AM 8/23; used voucher *A45 - the first of the three pack and the first time I am taking it

@@ -23,4 +23,4 @@ I have to use the MS vouchers by 11/16/17.  I would like to get that certificati
 
 Exams:
 * 532
-  * Schedule at 8:30AM 8/23; used voucher *A45 - the first of the three pack and the first time I am taking it
+  * Schedule at 8:30AM 8/23; used voucher *A45 - the first of the three pack and the first time I am taking it; as an FYI, I fucked up.  I should have scheduled 533.  Now I HAVE to take 532 (rather than 534) if I want a voucher left for the machine learning stuff.

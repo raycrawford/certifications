@@ -8,3 +8,7 @@
 `ctrl-L` clears screen
 `ctrl-F` full screen graphical after guest additions
 
+`lsb` and `lsblk` for looking at block devices
+
+`touch ./files{1..5}` creates a series of files.  `tree` can be used to look at a tree break down of file systems.
+
